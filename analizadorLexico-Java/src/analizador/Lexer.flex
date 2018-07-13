@@ -1,3 +1,5 @@
+//AQUI SE DEFINEN LAS REGLAS LEXICAS
+//----------------------------------
 package analizador;
 import static analizador.Token.*;
 %%
